@@ -1,0 +1,6 @@
+The file test_data.txt contains 3 variables:
+
+patient_id  - label for each subject in the experiment (1-30)
+activity -  label for a type of activity subject performed
+variable - type of measurement
+value - an average value per measurement, per activity, per subject
